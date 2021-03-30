@@ -10,7 +10,6 @@ This simple code shows a little example of glassmorphism.
 
 [한국어 버전](https://github.com/AltoSolid/simple-glassmorphism/blob/main/README-ko.md)
 
-
 ## Result
 Using Google Chrome:<br>
 ![Chrome result](https://github.com/AltoSolid/simple-glassmorphism/blob/main/Images/result-chrome.png)
