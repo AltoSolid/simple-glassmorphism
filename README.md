@@ -6,14 +6,14 @@ All credits go to FreeCodeCamp where this code is base on.
 This simple code shows a little example of glassmorphism.
 
 ## Language version of readme
-[Version en español]()
+[Version en español](https://github.com/AltoSolid/simple-glassmorphism/blob/main/README-es.md)
 
-[한국어 버전]()
+[한국어 버전](https://github.com/AltoSolid/simple-glassmorphism/blob/main/README-ko.md)
 
 
 ## Result
-Using Google Chrome:
-![Chrome result]()
+Using Google Chrome:<br>
+![Chrome result](https://github.com/AltoSolid/simple-glassmorphism/blob/main/Images/result-chrome.png)
 
 ## Tecnology used
 It does not contain fancy dependencies but it is worth to mention them:
@@ -35,5 +35,5 @@ You can read a little bit more about glassmorphism on the following pages:
 ## Be aware of
 There are some features that are not supported by some browsers like Firefox and Internet Explorer 11. 
 
-Firefox display (not good): 
-![Firefox result]()
+Firefox display (not good): <br>
+![Firefox result](https://github.com/AltoSolid/simple-glassmorphism/blob/main/Images/result-firefox.png)
