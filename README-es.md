@@ -5,7 +5,7 @@ Todos los créditos van a FreeCodeCampe donde este código está basado.
 ## Contenido
 Este simple código muestra un ejemplo sencillo de glassmorphism.
 
-## Versiones de languajes del readme
+## Versiones de idiomas del readme
 [English version](https://github.com/AltoSolid/simple-glassmorphism)
 
 [한국어 버전](https://github.com/AltoSolid/simple-glassmorphism/blob/main/README-ko.md)
