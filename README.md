@@ -14,7 +14,7 @@ This simple code shows a little example of glassmorphism.
 Using Google Chrome:<br>
 ![Chrome result](https://github.com/AltoSolid/simple-glassmorphism/blob/main/Images/result-chrome.png)
 
-## Tecnology used
+## Technology used
 It does not contain fancy dependencies but it is worth to mention them:
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">    HTML 
